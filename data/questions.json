@@ -1,0 +1,157 @@
+[
+  {
+    "id": "q00",
+    "question": "How does attention weigh tokens against each other?",
+    "expected_doc_id": "attention"
+  },
+  {
+    "id": "q01",
+    "question": "Why did transformers replace recurrent networks?",
+    "expected_doc_id": "transformers"
+  },
+  {
+    "id": "q02",
+    "question": "What is an embedding and how is similarity computed?",
+    "expected_doc_id": "embeddings"
+  },
+  {
+    "id": "q03",
+    "question": "Why does my client's name cost four tokens?",
+    "expected_doc_id": "tokenization"
+  },
+  {
+    "id": "q04",
+    "question": "What is the full RAG pipeline order?",
+    "expected_doc_id": "rag"
+  },
+  {
+    "id": "q05",
+    "question": "How big should my chunks be?",
+    "expected_doc_id": "chunking"
+  },
+  {
+    "id": "q06",
+    "question": "What does a reranker actually do?",
+    "expected_doc_id": "reranking"
+  },
+  {
+    "id": "q07",
+    "question": "Should I use dense search or keyword search?",
+    "expected_doc_id": "hybrid-search"
+  },
+  {
+    "id": "q08",
+    "question": "What exactly makes something an agent?",
+    "expected_doc_id": "agents"
+  },
+  {
+    "id": "q09",
+    "question": "How does function calling work?",
+    "expected_doc_id": "function-calling"
+  },
+  {
+    "id": "q10",
+    "question": "What is the ReAct pattern?",
+    "expected_doc_id": "agent-loop"
+  },
+  {
+    "id": "q11",
+    "question": "How do I stop an agent from looping forever?",
+    "expected_doc_id": "tripwires"
+  },
+  {
+    "id": "q12",
+    "question": "What are the different kinds of memory?",
+    "expected_doc_id": "memory"
+  },
+  {
+    "id": "q13",
+    "question": "How do I prevent memory poisoning?",
+    "expected_doc_id": "memory-poisoning"
+  },
+  {
+    "id": "q14",
+    "question": "How do I evaluate a probabilistic system?",
+    "expected_doc_id": "evals"
+  },
+  {
+    "id": "q15",
+    "question": "Can I use an LLM to grade my outputs?",
+    "expected_doc_id": "llm-judge"
+  },
+  {
+    "id": "q16",
+    "question": "How do I catch a prompt change that broke things?",
+    "expected_doc_id": "regression"
+  },
+  {
+    "id": "q17",
+    "question": "What does shipping an AI system involve?",
+    "expected_doc_id": "deployment"
+  },
+  {
+    "id": "q18",
+    "question": "How do I reduce my API bill?",
+    "expected_doc_id": "cost"
+  },
+  {
+    "id": "q19",
+    "question": "Why is my app slow even though the model is fast?",
+    "expected_doc_id": "latency"
+  },
+  {
+    "id": "q20",
+    "question": "What is semantic caching?",
+    "expected_doc_id": "caching"
+  },
+  {
+    "id": "q21",
+    "question": "How do I debug a bad AI response?",
+    "expected_doc_id": "observability"
+  },
+  {
+    "id": "q22",
+    "question": "What are guardrails for?",
+    "expected_doc_id": "guardrails"
+  },
+  {
+    "id": "q23",
+    "question": "What is prompt injection?",
+    "expected_doc_id": "security"
+  },
+  {
+    "id": "q24",
+    "question": "When do I need a human to review?",
+    "expected_doc_id": "human-in-loop"
+  },
+  {
+    "id": "q25",
+    "question": "How do I build a vision pipeline?",
+    "expected_doc_id": "vision"
+  },
+  {
+    "id": "q26",
+    "question": "How does object tracking work?",
+    "expected_doc_id": "detection"
+  },
+  {
+    "id": "q27",
+    "question": "How do I choose a confidence threshold?",
+    "expected_doc_id": "operating-point"
+  },
+  {
+    "id": "q28",
+    "question": "How do I build a voice assistant?",
+    "expected_doc_id": "voice"
+  },
+  {
+    "id": "q29",
+    "question": "When should I use multiple agents?",
+    "expected_doc_id": "multi-agent"
+  },
+  {
+    "id": "q30",
+    "question": "What is MCP and why does it matter?",
+    "expected_doc_id": "mcp"
+  }
+]
